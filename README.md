@@ -5,7 +5,7 @@ Remove password protection from PDF files.
 ## Install
 
 ```
-cargo install --path .
+cargo install --path --git https://github.com/ckaznable/passpdf.git
 ```
 
 ## Usage
