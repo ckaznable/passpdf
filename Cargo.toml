@@ -1,0 +1,8 @@
+[package]
+name = "passpdf"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lopdf = "0.39"
+rpassword = "5"
